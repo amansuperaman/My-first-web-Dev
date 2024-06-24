@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    background-color: brown;
+    color: aqua;
+    max-width: 400px;
+    text-decoration: underline;
+}
+p{
+    font-size: 24px;
+    font-weight: bolder;
+    color: green;
+    background-color: blue;
+    text-decoration: line-through;
+}

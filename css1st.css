@@ -1,0 +1,14 @@
+body{
+    background-color: maroon;
+}
+h1,p{
+    color: aqua;
+    background-color:white;
+}
+/* div{
+    background-color: aqua;
+    height: 200px;
+    width: 250px;
+    margin-left: 250px;
+    text-align: center;
+} */
